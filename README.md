@@ -58,5 +58,5 @@
 - Không chịu trách nhiệm về việc mất mát dữ liệu do sử dụng sai mục đích.
 
 ---
-**Tác giả:** _Your Name_  
-**Liên hệ:** _your.email@example.com_
+**Tác giả:** NGUYỄN HỮU TUẤN MINH  
+**Liên hệ:** Gamincoder@gmail.com
